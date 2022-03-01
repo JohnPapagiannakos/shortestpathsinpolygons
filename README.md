@@ -1,11 +1,11 @@
-##   Computational Geometry <COMP 416> - (2020)
+#   Computational Geometry <COMP 416> - (2020)
    
-# Topic
+## Topic
 Given two points inside a polygon, the goal is to find 
 the shortest path lying inside the polygon between the 
 two points.
     
-# Author
+## Author
 Ioannis Marios Papagiannakos
 
 ## Requirements
